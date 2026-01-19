@@ -4,7 +4,6 @@
 
 Ein eleganter und funktionaler Taschenrechner, der mit **Python** und **Tkinter** entwickelt wurde. Dieses Projekt kombiniert ein modernes visuelles Design mit erweiterten mathematischen Funktionen.
 
-[Image of a professional software README header with a calculator icon]
 
 ## ✨ Features
 
